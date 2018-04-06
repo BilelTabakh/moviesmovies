@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="genres_filter">
+        <item>action</item>
+        <item>adventure</item>
+        <item>animation</item>
+        <item>biography</item>
+        <item>comedy</item>
+        <item>crime</item>
+        <item>documentary</item>
+        <item>drama</item>
+        <item>family</item>
+        <item>fantasy</item>
+        <item>film-noir</item>
+        <item>history</item>
+        <item>horror</item>
+        <item>music</item>
+        <item>musical</item>
+        <item>mystery</item>
+        <item>romance</item>
+        <item>sci-fi</item>
+        <item>sport</item>
+        <item>thriller</item>
+        <item>war</item>
+        <item>western</item>
+    </string-array>
+
+    <string-array name="genres_name">
+        <item>@string/action</item>
+        <item>@string/adventure</item>
+        <item>@string/animation</item>
+        <item>@string/biography</item>
+        <item>@string/comedy</item>
+        <item>@string/crime</item>
+        <item>@string/documentary</item>
+        <item>@string/drama</item>
+        <item>@string/family</item>
+        <item>@string/fantasy</item>
+        <item>@string/film_noir</item>
+        <item>@string/history</item>
+        <item>@string/horror</item>
+        <item>@string/music</item>
+        <item>@string/musical</item>
+        <item>@string/mystery</item>
+        <item>@string/romance</item>
+        <item>@string/sci_fi</item>
+        <item>@string/sport</item>
+        <item>@string/thriller</item>
+        <item>@string/war</item>
+        <item>@string/western</item>
+    </string-array>
+
+    <array name="genres_image">
+        <item>@drawable/action</item>
+        <item>@drawable/adventure</item>
+        <item>@drawable/animation</item>
+        <item>@drawable/biography</item>
+        <item>@drawable/comedy</item>
+        <item>@drawable/crime</item>
+        <item>@drawable/documentary</item>
+        <item>@drawable/drama</item>
+        <item>@drawable/family</item>
+        <item>@drawable/fantasy</item>
+        <item>@drawable/film_noir</item>
+        <item>@drawable/history</item>
+        <item>@drawable/horror</item>
+        <item>@drawable/music</item>
+        <item>@drawable/musical</item>
+        <item>@drawable/mystery</item>
+        <item>@drawable/romance</item>
+        <item>@drawable/sci_fi</item>
+        <item>@drawable/sport</item>
+        <item>@drawable/thriller</item>
+        <item>@drawable/war</item>
+        <item>@drawable/western</item>
+    </array>
+
+    <!--*****************************************SEARCH FILTERS**************************************************************-->
+    <string-array name="quality_search_filter">
+        <item>all</item>
+        <item>720p</item>
+        <item>1080p</item>
+        <item>3d</item>
+    </string-array>
+
+    <string-array name="quality_search_name">
+        <item>@string/all</item>
+        <item>720P</item>
+        <item>1080P</item>
+        <item>3D</item>
+    </string-array>
+
+    <string-array name="genres_search_filter">
+        <item>all</item>
+        <item>action</item>
+        <item>adventure</item>
+        <item>animation</item>
+        <item>biography</item>
+        <item>comedy</item>
+        <item>crime</item>
+        <item>documentary</item>
+        <item>drama</item>
+        <item>family</item>
+        <item>fantasy</item>
+        <item>film-noir</item>
+        <item>history</item>
+        <item>horror</item>
+        <item>music</item>
+        <item>musical</item>
+        <item>mystery</item>
+        <item>romance</item>
+        <item>sci-fi</item>
+        <item>sport</item>
+        <item>thriller</item>
+        <item>war</item>
+        <item>western</item>
+    </string-array>
+
+    <string-array name="genres_search_name">
+        <item>@string/all</item>
+        <item>@string/action</item>
+        <item>@string/adventure</item>
+        <item>@string/animation</item>
+        <item>@string/biography</item>
+        <item>@string/comedy</item>
+        <item>@string/crime</item>
+        <item>@string/documentary</item>
+        <item>@string/drama</item>
+        <item>@string/family</item>
+        <item>@string/fantasy</item>
+        <item>@string/film_noir</item>
+        <item>@string/history</item>
+        <item>@string/horror</item>
+        <item>@string/music</item>
+        <item>@string/musical</item>
+        <item>@string/mystery</item>
+        <item>@string/romance</item>
+        <item>@string/sci_fi</item>
+        <item>@string/sport</item>
+        <item>@string/thriller</item>
+        <item>@string/war</item>
+        <item>@string/western</item>
+    </string-array>
+
+    <string-array name="rating_search_filter">
+        <item>all</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="rating_search_name">
+        <item>@string/all</item>
+        <item>9+</item>
+        <item>8+</item>
+        <item>7+</item>
+        <item>6+</item>
+        <item>5+</item>
+        <item>4+</item>
+        <item>3+</item>
+        <item>2+</item>
+        <item>1+</item>
+    </string-array>
+
+    <string-array name="order_search_filter">
+        <item>latest</item>
+        <item>oldest</item>
+        <item>seeds</item>
+        <item>peers</item>
+        <item>year</item>
+        <item>rating</item>
+        <item>likes</item>
+        <item>alphabetical</item>
+    </string-array>
+
+    <string-array name="order_search_name">
+        <item>@string/all</item>
+        <item>@string/latest</item>
+        <item>@string/oldest</item>
+        <item>@string/seeds</item>
+        <item>@string/peers</item>
+        <item>@string/year</item>
+        <item>@string/rating</item>
+        <item>@string/likes</item>
+        <item>@string/alphabetical</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282945</color>
+    <color name="colorPrimaryDark">#1d1e32</color>
+    <color name="colorAccent">#ef215c</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparentWhite">#73ffffff</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="unselectedTab">#a9aece</color>
+    <color name="transparentLight">#26000000</color>
+    <color name="transparentDark">#73000000</color>
+    <color name="transparentAccent">#B3ef215c</color>
+    <color name="floatingButtonTextBackgroud">#CCffffff</color>
+</resources>
+
+<!--
+Hex Opacity Values
+    100% — FF
+    95% — F2
+    90% — E6
+    85% — D9
+    80% — CC
+    75% — BF
+    70% — B3
+    65% — A6
+    60% — 99
+    55% — 8C
+    50% — 80
+    45% — 73
+    40% — 66
+    35% — 59
+    30% — 4D
+    25% — 40
+    20% — 33
+    15% — 26
+    10% — 1A
+    5%  — 0D
+    0% —  00
+-->
